@@ -31,5 +31,5 @@ Make sure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/k-means-iris.git
+   git clone https://github.com/Kidus-19/k-means-iris.git
    cd k-means-iris
